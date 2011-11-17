@@ -34,6 +34,7 @@ GEM
     arel (2.2.1)
     autotest (4.4.6)
       ZenTest (>= 4.4.1)
+    autotest-rails-pure (4.1.2)
     bcrypt-ruby (3.0.1-x86-mingw32)
     builder (3.0.0)
     coffee-rails (3.1.1)
@@ -132,6 +133,7 @@ PLATFORMS
 
 DEPENDENCIES
   autotest
+  autotest-rails-pure (= 4.1.2)
   coffee-rails (~> 3.1.0)
   jquery-rails
   rails (= 3.1.0)
